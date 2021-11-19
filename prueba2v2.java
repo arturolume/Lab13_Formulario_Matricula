@@ -270,7 +270,7 @@ public class prueba2v2 extends Application{
                 Alert alert = new Alert(Alert.AlertType.ERROR);
                 alert.setHeaderText(null);
                 alert.setTitle("OH NO");
-                alert.setContentText("No se pudo agregar al alumnos");
+                alert.setContentText("No se pudo agregar al alumno");
                 alert.showAndWait();
                 i++;
             }
